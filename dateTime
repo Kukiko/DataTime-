@@ -1,0 +1,9 @@
+from datetime import* 
+  while True 
+  DateOfBirth = int(input("Enter your date of birth :"))
+  
+  today = datetime.today() 
+  year = today.year 
+  age = int(year) - (dateOfbirth) 
+  print("this your history", age) 
+  
